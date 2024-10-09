@@ -1,0 +1,32 @@
+* {
+    background-color: black;
+}
+
+p {
+    color: white;
+    
+}
+
+  
+#h1text {
+    color: white;
+    text-transform: uppercase;
+    
+    
+
+}
+
+.myimage {           
+    border: 5px solid white;
+    width: 100%;
+    
+    
+   
+}
+
+.poster {
+    border: 5px white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
